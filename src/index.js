@@ -16,6 +16,8 @@ document
     } = form.elements;
     auth = new GoTrue({
       APIUrl: apiendpoint.value
+      //APIUrl: "https://hqg-v97.netlify.app/.netlify/identity"
+      //APIUrl: apiendpoint."https://hqg-v97.netlify.app/.netlify/identity"
     });
     document.getElementById(
       "alert-msg"

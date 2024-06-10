@@ -27,5 +27,6 @@
     "style-loader": "^0.21.0",
     "webpack": "^4.6.0",
     "webpack-cli": "^2.1.2"
-  }
+  },
+  "packageManager": "yarn@4.2.2"
 }
